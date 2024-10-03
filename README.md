@@ -6,3 +6,5 @@ This project involves the development of a convolutional neural netrwork model t
 The neural network consists of three convolutional layers, each having a 2D convolutional layer, a maxpooling layer and a dropout layer or regularization purposes. L2 regularization is also implemented in each of the 2D convolutional layers. The final set of layers in the network consist of the flatten and fully connected layers.
 
 Early stopping and reduction of learning rate is applied during the training process. The model performs well with over 90% accuracy, and good precision, recall and f1 scores.
+
+The neural network and the results are presented in the python notebook.
